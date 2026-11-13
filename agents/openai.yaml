@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eli封面与艺术照"
+  short_description: "使用已选艺术照制作白底黑紫封面，保持人物身份并按比例适配、核对实际像素与成图"
+  default_prompt: "使用 $eli-cover-production，按本期已定文字与规格制作Eli封面，优先已有艺术照，检查完整成图。"
